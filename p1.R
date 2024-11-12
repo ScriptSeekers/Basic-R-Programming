@@ -1,0 +1,10 @@
+a<-12
+b<-12.3
+c<-"ScriptSeekers"
+d<-TRUE
+typeof(a)
+typeof(d)
+a1<-as.factor(a)
+typeof(a1)
+a2<-as.numeric(a)
+typeof(a2)
